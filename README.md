@@ -1,7 +1,7 @@
-# ChatGPT AI - Open Chat
-ChatGPT AI - Open Chat, Last updated [February 12th, 2023]
+# Chat GPT - AI Chatbot
+Chat GPT - AI Chatbot, Last updated [February 12th, 2023]
 
-ChatGPT AI - Open Chat (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
+Chat GPT - AI Chatbot (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”).Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
 
@@ -103,4 +103,4 @@ Emails and Communications If you no longer wish to receive correspondence, email
 
 If you are under 18 years of age, reside in California, and have a registered account with the Application, you have the right to request removal of unwanted data that you publicly post on the Application. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Application, but please be aware that the data may not be completely or comprehensively removed from our systems. CONTACT US If you have questions or comments about this Privacy Policy, please contact us at:
 
-ChatGPT AI - Open Chat - New York, NY chaddarchiz@gmail.com
+Chat GPT - AI Chatbot - New York, NY chaddarchiz@gmail.com
